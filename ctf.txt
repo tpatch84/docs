@@ -1,0 +1,22 @@
+A game based upon the same concepts behind Mafia variants, security pen testing code games, etc. Code Capture-the-flag variants, and other games of hidden information.
+
+Brainstorm / Questions to consider...
+
+Consider a group where the players are drafted without being directly made aware, how does the game make them aware in order to allow them to actively participate within their role / boundaries without violating said constraints? It must be organic, but may only be able to be organic to a limited extend.
+
+It is not reliable to assume that all players will be willing to take high risks and cheat their typical expectations prior to becoming aware. Some users may be willing to stretch their boundaries but only within a certain comfort zone. If the game punishes them too harshly or the other characters are too adamant against the game's true nature (prior to initial reveal), then player may be entirely aware or have strong suspicion to the true nature of the game while remaining cautious on the chance that they still may be misreading the situation. This can be difficult to address while still maintaining the integrity of the game and may require a stronger (or more absolute) indicator that they are correct along with a direct indicator of the first step that should be taken. This would help the player to be certain that references that seem to contextually make sense within the game's rules actually do relate to the player (such as referring to the player by an alias like "The character, upon first logging into the game, will need to use the in game mail to Contact the Gods." The player will need to be able to know that this actually is requesting the player itself to call or email Customer Support or a GM within the game and they should not be concerned that they will be banned should they attempt to "cheat".
+
+The PlayStation 2 .HACK/Infection game does a fantastic job at handling this balancing act with an MMO that is both an in game real MMO but also a "self aware" MMO that involves the characters knowing they are players past the 4th wall.
+
+Other references: Persona games, .Hack/SIGN anime series, etc.
+
+This would be a one time occurance in order to begin the journey,
+
+After initial contact...
+Questions:
+When are the game rules active? What are the hours of operation within a day? Which days of the week?
+This will help determine what is acceptable and when. This will also help with understanding when the player can play their "night" role (reference to Mafia web forum games) in order to continue their role without being noticed by the game as it would in "day" mode.
+
+What is the players goal?
+
+What is the player's first step that will allow them to fully "register" into the game world to join the immersion?
