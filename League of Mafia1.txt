@@ -1,0 +1,39 @@
+This was originally created by me as part of a series of differently themed forum Mafia games to be enjoyed by the community.
+
+=====
+
+[b]Shen - Stand United -[/b]Each night, you may choose one target to save from a single death attempt if one is made.  Town.  Night role.
+
+[b]Urgot - Hyper-Kinetic Position Reverser -[/b]Choose a target.  All actions choosing your target will be treated as if you were the target instead, and vice versa.  Mafia.  Night role.
+
+[b]Twisted Fate - Destiny -[/b]Each night you may choose a target and reveal the name of that player's role to yourself, as well as a description of their abilities.  Town.  Night role.
+
+[b]Mordekaiser - Children of the Grave -[/b]Choose a target.  That player loses all abilities and is now your Ghost.  You and this player can communicate directly with each other and they can not vote you for a lynch vote.  If you die, your Ghost dies.  If investigated, your Ghost's role will be revealed as "Ghost" instead of their previous role, with the "mafia" alignment.  One time use.  Mafia.  Night role.
+
+[b]Cho'gath - Feast -[/b]You may kill a target.  If you do, your role will be revealed, but not your alignment.  Two times use.  Town.  Night role.
+
+[b]Warwick - Bloodscent -[/b]If no player is lynched, then the role, alignment, and abilities of the player with the most votes will become known to you.  This is not a targetted ability.  Town.  Triggered ability.
+
+[b]Evelynn - Shadow Walk -[/b]You are immune to all targetted abilities but not Bloodscent.  Mafia.  Triggered ability.
+
+[b]Karthus - Death Defied/Requiem -[/b]You can continue to post for one day after you die and can still vote during that time.  When you die, you will add +3 lynch votes to all players in the next Day phase, allowing the possibility of multiple lynches due to multiple "majorities".  Town.  Triggered ability.
+
+[b]Lee Sin - Blindness/Safeguard -[/b]All posts you make must be in white font.  Each day that you do so, you will reduce the number of total lynch votes against you by one.  Town.  Triggered ability.
+
+[b]Singed - Poison Trail -[/b]If someone targets an ability on you at night, they will die after their action if not protected.  Mafia.  Triggered ability.
+
+[b]Amumu - Curse of the Sad Mummy -[/b]All posts you make must sound whiny.  All night actions requiring a target will be unable to resolve due to no one being able to move that night, instead forced to listen to you complain.  One time use.  Town.  Night role.
+
+[b]Leblanc - Mirror Image -[/b]At the beginning of the game, choose one person.  If an action or lynch would happen to you, it would happen to that person instead.  Lynch votes against you will be totalled seperately from your target, not adding together, and thus can not make a majority vote if one would otherwise not happen.  One time use.  Mafia.  Triggered ability.
+
+[b]Pantheon - Aegis Protection -[/b]Posts you make must have a picture of a baked good.  The first time you are targetted for a kill attempt, you will deflect it, protecting you from death.  One time use.  Town.  Triggered ability.
+
+[b]Zilean - Chronoshift -[/b]You can save someone from a lynch vote and end that day.  Your role will be announced.  One time use.  Town.  Day role.
+
+[b]Kayle - Intervention -[/b]You can choose a target to make immune to all lynch votes and targetted abilities for the current day and following night, or current night and following day.  Your role will be announced.  One time use.  Town.  Day role or Night role.
+
+[b]Olaf - Beserker Rage -[/b]You are now a bro, bro, and must speak like one while typing your posts over some Graggy Ice.  Every two lynch votes against you will add one lynch vote to votes made by you, bro.  Town.  Triggered ability.
+
+[b]Kog'maw - Icathian Surprise -[/b]When you die, you may choose one person to kill.  This may not be redirected or prevented by any ability.  This is not considered a targetted ability.  Town.  Triggered ability.
+
+[b]Soraka - Infuse -[/b]Choose a target.  If the target is an enemy, their ability will be unable to resolve.  If the target is an ally, you will add one charge to any limited use ability they may have.  Four time use.  Town.  Night role.
